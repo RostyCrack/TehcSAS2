@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "543280167717",
+    "project_id": "tehc-app",
+    "storage_bucket": "tehc-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543280167717:android:65dee228a5d38ed4d878cc",
+        "android_client_info": {
+          "package_name": "com.example.disenos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543280167717-6m6k72rkkd9prsmq5cfkn96c76pa3j53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeN9Smm2LXxAoM-HhXvLMp7Ryinr_engk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543280167717-6m6k72rkkd9prsmq5cfkn96c76pa3j53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

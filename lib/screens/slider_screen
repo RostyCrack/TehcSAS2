@@ -1,0 +1,44 @@
+
+import 'package:flutter/material.dart';
+
+
+class SliderScreen extends StatefulWidget {
+  const SliderScreen({super.key});
+
+  @override
+  State<SliderScreen> createState() => _SliderScreenState();
+}
+
+class _SliderScreenState extends State<SliderScreen> {
+  double _sliderValue = 100;
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text('Slider & checks'),
+      ),
+      body: Column(
+        children: [
+          Slider.adaptive(
+            min: 50,
+            max: 400,
+            //activeColor: AppTheme.primary,
+            value: _sliderValue,
+            onChanged: (value){
+              _sliderValue = value;
+              setState(() {
+
+              });
+
+            }
+          ),
+           const Image(
+               image: NetworkImage('https://static.vecteezy.com/system/resources/previews/005/162/472/original/happy-children-on-school-bus-free-vector.jpg')),
+              //fit: BoxFit.contain
+
+
+        ],
+      )
+    );
+  }
+}

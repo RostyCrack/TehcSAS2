@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>543280167717-rpkahp4jkiransktn006lcjgagoka6en.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.543280167717-rpkahp4jkiransktn006lcjgagoka6en</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCzMZA_1YIgoqhGV2r2XlrPtT1zTZaX3mo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>543280167717</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tech.techsas</string>
+	<key>PROJECT_ID</key>
+	<string>tehc-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tehc-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:543280167717:ios:fc90c61d6dfa1fedd878cc</string>
+</dict>
+</plist>
